@@ -1,5 +1,5 @@
 # 💫 About Me:
-Communication Multimedia Student, focused on front-end development, based in the Netherlands.<br>
+Communication Multimedia and Design student at the Amsterdam University of Applied Science, focused on front-end development, based in the Netherlands.<br>
 
 
 ## 🌐 Socials:
